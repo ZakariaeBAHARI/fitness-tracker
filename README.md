@@ -39,7 +39,7 @@ This is a simple fitness tracker application that uses computer vision to count 
 
 5. Click the "Track Exercise" button to start processing the video.
    -the output should be the same as the video in the "result" folder
-   ![gif]([result/output_video.avi](https://github.com/ZakariaeBAHARI/fitness-tracker/blob/main/result/output_video.avi))
+   ![gif](https://github.com/ZakariaeBAHARI/fitness-tracker/blob/main/result/output_video.gif?raw=true)
 
 ### Contributing
 
