@@ -23,7 +23,7 @@ This is a simple fitness tracker application that uses computer vision to count 
 1. Install dependencies:
 
    ```bash
-   pip install opencv-python==4.5.1 mediapipe==0.8.0 Pillow==8.2.0
+   pip install opencv-python mediapipe Pillow
 
 
 
@@ -34,10 +34,11 @@ This is a simple fitness tracker application that uses computer vision to count 
 
 
 3. Select a video file (containing somone performing pullups or pushups exercice).
+   -you can use my video in the "data" folder
 
 
-4. Click the "Track Exercise" button to start processing the video.
-
+5. Click the "Track Exercise" button to start processing the video.
+   -the output should be the same as the video in the "result" folder 
 
 ### Contributing
 
