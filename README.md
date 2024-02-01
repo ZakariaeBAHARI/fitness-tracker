@@ -33,7 +33,7 @@ This is a simple fitness tracker application that uses computer vision to count 
    python src/main.py
 
 
-3. Select a video file (containing somone performing pullups or pushups exercice).
+3. Select a video file (containing Someone performing pullups or pushups exercice).
    -you can use my video in the "data" folder
 
 
